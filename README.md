@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte N2 na empresa VISOTECH
-- 🌱 Atualmente estou aprendendo PHP, Banco de Dados, HTML5, CSS3 e JS
+- 🌱 Atualmente estou aprendendo PHP, JAVA, Banco de Dados, HTML5, CSS3, JS e Bootstrap
 - 📫 Como chegar até mim: https://www.instagram.com/jhonysts_94/
 - 📫 Como chegar até mim: https://www.linkedin.com/in/jhony-santos-09101994/
 
